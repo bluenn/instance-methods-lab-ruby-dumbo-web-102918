@@ -7,7 +7,7 @@ end
 
 #instance method, teaches all dogs to sit
 def sit
-  puts "The Dog is Sitting"
+  puts "The Dog is sitting"
 end
 
 end
